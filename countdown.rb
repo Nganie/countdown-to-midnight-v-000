@@ -7,4 +7,4 @@ while x < 10
   x += 1
 end
 end
-sleep(4.minutes)
+sleep(1.minutes)

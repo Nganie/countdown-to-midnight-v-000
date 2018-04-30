@@ -7,4 +7,7 @@ while x < 10
   x += 1
 end
 end
-sleep(1.minutes)
+
+def countdown_with_sleep
+sleep(5.seconds)
+end
